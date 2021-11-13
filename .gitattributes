@@ -1,0 +1,2 @@
+Library/x64.Debug/libprotobufd.lib filter=lfs diff=lfs merge=lfs -text
+Library/x64.Debug/libprotobufd.lib filter=lfs diff=lfs merge=lfs -text
